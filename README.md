@@ -2,7 +2,7 @@
 
 > **Créé par XxGhostxX – Propriété exclusive**
 
-⚠️ **CE PROJET EST PERSONNEL.** Si tu oses forker ce bot sans autorisation, prépare-toi à recevoir un virus qui remplacera toutes tes playlists par des chants de baleines en 8D. 
+⚠️ **CE PROJET EST PERSONNEL.** Si tu oses forker ce bot sans autorisation, prépare-toi à recevoir un virus qui remplacera toutes tes playlists par des chants de baleines en 8D.
 
 ---
 
@@ -33,15 +33,17 @@ Tu veux vraiment forker ? Voici ce qui t’attend :
 
 ## 🤬 MESSAGE POUR LES "GÉNIES DU WEB"
 
-Si tu penses que copier ce projet te fera devenir le prochain Elon Musk du code, laisse-moi te dire un truc : **tu n’as pas l’intelligence pour comprendre ce bijou.** Va apprendre le JavaScript avant de t’aventurer ici. 
+Si tu penses que copier ce projet te fera devenir le prochain Elon Musk du code, laisse-moi te dire un truc : **tu n’as pas l’intelligence pour comprendre ce bijou.** Va apprendre le JavaScript avant de t’aventurer ici.
 
 ---
 
 ## 🙅‍♂️ ET POUR FINIR…
 
 Si tu forkes quand même ?  
-**Un GIF de bienvenue t’attend :**  
-[https://i.imgur.com/YkLcDRv.gif](https://i.imgur.com/YkLcDRv.gif)  
+**Un GIF de bienvenue t’attend :**
+
+![Message de bienvenue](https://i.imgur.com/YkLcDRv.gif)
+
 (Spoiler : ce n’est pas un compliment.)
 
 ---
