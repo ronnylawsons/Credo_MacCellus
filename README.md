@@ -42,7 +42,7 @@ Si tu penses que copier ce projet te fera devenir le prochain Elon Musk du code,
 Si tu forkes quand même ?  
 **Un GIF de bienvenue t’attend :**
 
-![Message de bienvenue](https://i.imgur.com/YkLcDRv.gif)
+![Message de bienvenue](https://i.imgur.com/hDDJdrC.gif)
 
 (Spoiler : ce n’est pas un compliment.)
 
