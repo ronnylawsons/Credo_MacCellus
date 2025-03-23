@@ -1,4 +1,4 @@
- const fs = require("fs-extra");
+const fs = require("fs-extra");
 const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
@@ -117,4 +117,4 @@ function roleTextToString(roleText) {
     default:
       return "Unknown role";
   }
-          }
+      }
